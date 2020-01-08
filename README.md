@@ -1,5 +1,7 @@
 # JavaScript Mapsforge Parser
 
+[**WEB**](https://tomashubelbauer.github.io/mapsforge)
+
 The map file is extracted from the MapsForge OSM download at
 https://download.bbbike.org/osm/bbbike/Prag.
 
